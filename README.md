@@ -6,7 +6,7 @@ Engagespot is a complete product notification infrastructure to build your produ
 ## Team members
 1. [MuhammedSajal](https://github.com/MUHAMMEDSAJAL)
 2. [Abisha Nazrin](https://github.com/abishaNazrin)
-3. [Ansil Reji](https://github.com/ansil reji)
+3. [Ansil Reji](https://github.com/ansil_reji)
 4. [Basil Sajeev](https://github.com/basilsajeev123)
 
 ## How it Works ?
